@@ -6,6 +6,7 @@ import org.junit.Test;
 import static junit.framework.TestCase.assertEquals;
 import static junit.framework.TestCase.assertTrue;
 
+//не понятен смысл данного теста
 public class MontyHallParadoxDemoTest {
     private final int totalGames = 1000; // общее количество игр
     private final int switchWins = 600; // количество выигрышей при смене выбора двери
